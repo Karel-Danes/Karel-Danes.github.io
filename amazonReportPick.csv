@@ -1,0 +1,4 @@
+item-name,item-description,listing-id,seller-sku,price,quantity,open-date,image-url,item-is-marketplace,product-id-type,zshop-shipping-fee,item-note,item-condition,zshop-category1,zshop-browse-path,zshop-storefront-feature,asin1,asin2,asin3,will-ship-internationally,expedited-shipping,zshop-boldface,product-id,bid-for-featured-placement,add-delete,pending-quantity,fulfillment-channel,optional-payment-type-exclusion,status
+mock item 1,,0718AWSFAKE,sku001,6.57,3,2023-07-18 08:34:18 CEST,,y,4,,,11,,,,B004GIFAKE,,,,,,8595026050938,,,0,DEFAULT,,Active
+mock item 2,,0902Z7QFAKE,sku002,60.67,1,2022-09-02 13:13:40 CEST,,y,4,,,11,,,,B085LNFAKE,,,,,,9007906471003,,,0,DEFAULT,,Active
+mock item 3,,0929AEFFAKE,sku003,78.82,8,2023-09-29 13:59:06 CEST,,y,4,,,11,,,,B0B4IPFAKE,,,,,,5410810414013,,,0,DEFAULT,,Active

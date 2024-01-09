@@ -11,73 +11,73 @@
 			Kvalitné doplnky do auta asi
 		</description>
 		<item>
-			<g:id>
+			<id>
 				5907
-			</g:id>
+			</id>
 			<title>
 				mock item 1
 			</title>
 			<description>
 				<![CDATA[ descripton XYZ ]]>
 			</description>
-			<g:product_type>
+			<product_type>
 				Audio a Elektro &amp;gt; Handsfree do auta
-			</g:product_type>
+			</product_type>
 			<link>
 				https://www.FAKEautodoplnkyFAKE-kb.sk/bluetooth-headset-q2/
 			</link>
-			<g:mobile_link>
+			<mobile_link>
 				https://www.FAKEautodoplnkyFAKE-kb.sk/bluetooth-headset-q2/
-			</g:mobile_link>
-			<g:image_link>
+			</mobile_link>
+			<image_link>
 				https://cdn.myshoptet.com/usr/www.FAKEautodoplnkyFAKE-kb.sk/user/shop/orig/5907_bluetooth-headset-q2.jpg?5da83bff
-			</g:image_link>
-			<g:additional_image_link>
+			</image_link>
+			<additional_image_link>
 				https://cdn.myshoptet.com/usr/www.FAKEautodoplnkyFAKE-kb.sk/user/shop/orig/5907-1_bluetooth-headset-q2-1.jpg?5da83bff
-			</g:additional_image_link>
-			<g:additional_image_link>
+			</additional_image_link>
+			<additional_image_link>
 				https://cdn.myshoptet.com/usr/www.FAKEautodoplnkyFAKE-kb.sk/user/shop/orig/5907-2_bluetooth-headset-q2-2.jpg?5da83c00
-			</g:additional_image_link>
-			<g:condition>
+			</additional_image_link>
+			<condition>
 				new
-			</g:condition>
-			<g:availability>
+			</condition>
+			<availability>
 				in stock
-			</g:availability>
-			<g:price>
+			</availability>
+			<price>
 				6.57 EUR
-			</g:price>
-			<g:gtin>
+			</price>
+			<gtin>
 				8595026050938
-			</g:gtin>
-			<g:mpn>
+			</gtin>
+			<mpn>
 				sku001
-			</g:mpn>
-			<g:brand>
+			</mpn>
+			<brand>
 				Extreme
-			</g:brand>
-			<g:shipping>
-				<g:country>
+			</brand>
+			<shipping>
+				<country>
 					DE
-				</g:country>
-				<g:service>
+				</country>
+				<service>
 					DHL
-				</g:service>
-				<g:price>
+				</service>
+				<price>
 					3.90 EUR
-				</g:price>
-			</g:shipping>
-			<g:adult>
+				</price>
+			</shipping>
+			<adult>
 				FALSE
-			</g:adult>
-			<g:item_group_id>
+			</adult>
+			<item_group_id>
 				5907
-			</g:item_group_id>
+			</item_group_id>
 		</item>
 		<item>
-			<g:id>
+			<id>
 				5910
-			</g:id>
+			</id>
 			<title>
 				mock item 2
 			</title>
@@ -89,64 +89,64 @@
 				Veľkosť reproduktora [mm]: 25
 				]]>
 			</description>
-			<g:product_type>
+			<product_type>
 				Audio a Elektro &amp;gt; Handsfree do auta
-			</g:product_type>
+			</product_type>
 			<link>
 				https://www.FAKEautodoplnkyFAKE-kb.sk/bluetooth-sada-x200/
 			</link>
-			<g:mobile_link>
+			<mobile_link>
 				https://www.FAKEautodoplnkyFAKE-kb.sk/bluetooth-sada-x200/
-			</g:mobile_link>
+			</mobile_link>
 			<image_link>
 				https://cdn.myshoptet.com/usr/www.FAKEautodoplnkyFAKE-kb.sk/user/shop/orig/5910_bluetooth-sada-x200.jpg?5da847bd
 			</image_link>
-			<g:additional_image_link>
+			<additional_image_link>
 				https://cdn.myshoptet.com/usr/www.FAKEautodoplnkyFAKE-kb.sk/user/shop/orig/5910-1_bluetooth-sada-x200-1.jpg?5da847be
-			</g:additional_image_link>
-			<g:additional_image_link>
+			</additional_image_link>
+			<additional_image_link>
 				https://cdn.myshoptet.com/usr/www.FAKEautodoplnkyFAKE-kb.sk/user/shop/orig/5910-2_bluetooth-sada-x200-2.jpg?5da847be
-			</g:additional_image_link>
-			<g:condition>
+			</additional_image_link>
+			<condition>
 				new
-			</g:condition>
-			<g:availability>
+			</condition>
+			<availability>
 				in stock
-			</g:availability>
-			<g:price>
+			</availability>
+			<price>
 				60.67 EUR
-			</g:price>
-			<g:gtin>
+			</price>
+			<gtin>
 				9007906471003
-			</g:gtin>
-			<g:mpn>
+			</gtin>
+			<mpn>
 				sku002
-			</g:mpn>
-			<g:brand>
+			</mpn>
+			<brand>
 				XBLITZ
-			</g:brand>
-			<g:shipping>
-				<g:country>
+			</brand>
+			<shipping>
+				<country>
 					DE
-				</g:country>
-				<g:service>
+				</country>
+				<service>
 					DHL
-				</g:service>
-				<g:price>
+				</service>
+				<price>
 					3.90 EUR
-				</g:price>
-			</g:shipping>
-			<g:adult>
+				</price>
+			</shipping>
+			<adult>
 				FALSE
-			</g:adult>
-			<g:item_group_id>
+			</adult>
+			<item_group_id>
 				5910
-			</g:item_group_id>
+			</item_group_id>
 		</item>
 		<item>
-			<g:id>
+			<id>
 				10412
-			</g:id>
+			</id>
 			<title>
 				mock item 3
 			</title>
@@ -158,53 +158,53 @@
 				Zadné sedadlá -&nbsp;120 cm x 70 cm
 				]]>
 			</description>
-			<g:product_type>
+			<product_type>
 				Interiérové doplnky &amp;gt; Autopoťahy na sedačky
-			</g:product_type>
+			</product_type>
 			<link>
 				https://www.FAKEautodoplnkyFAKE-kb.sk/sada-univerzalnych-potahov-g9/
 			</link>
-			<g:mobile_link>
+			<mobile_link>
 				https://www.FAKEautodoplnkyFAKE-kb.sk/sada-univerzalnych-potahov-g9/
-			</g:mobile_link>
+			</mobile_link>
 			<image_link>
 				https://cdn.myshoptet.com/usr/www.FAKEautodoplnkyFAKE-kb.sk/user/shop/orig/6180_sada-autopotahov-g9-sive.jpg?5db6d894
 			</image_link>
-			<g:condition>
+			<condition>
 				new
-			</g:condition>
-			<g:availability>
+			</condition>
+			<availability>
 				in stock
-			</g:availability>
-			<g:price>
+			</availability>
+			<price>
 				78.82 EUR
-			</g:price>
-			<g:gtin>
+			</price>
+			<gtin>
 				5410810414013
-			</g:gtin>
-			<g:mpn>
+			</gtin>
+			<mpn>
 				sku003
-			</g:mpn>
-			<g:brand>
+			</mpn>
+			<brand>
 				BOTTARI
-			</g:brand>
-			<g:shipping>
-				<g:country>
+			</brand>
+			<shipping>
+				<country>
 					DE
-				</g:country>
-				<g:service>
+				</country>
+				<service>
 					DHL
-				</g:service>
-				<g:price>
+				</service>
+				<price>
 					3.90 EUR
-				</g:price>
-			</g:shipping>
-			<g:adult>
+				</price>
+			</shipping>
+			<adult>
 				FALSE
-			</g:adult>
-			<g:item_group_id>
+			</adult>
+			<item_group_id>
 				6180
-			</g:item_group_id>
+			</item_group_id>
 		</item>
 	</channel>
 </rss>

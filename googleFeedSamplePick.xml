@@ -12,7 +12,7 @@
 		</description>
 		<item>
 			<g:id>
-				5907
+				sku001
 			</g:id>
 			<title>
 				mock item 1
@@ -71,12 +71,12 @@
 				FALSE
 			</g:adult>
 			<g:item_group_id>
-				5907
+				parent001
 			</g:item_group_id>
 		</item>
 		<item>
 			<g:id>
-				5910
+				sku002
 			</g:id>
 			<title>
 				mock item 2
@@ -140,12 +140,12 @@
 				FALSE
 			</g:adult>
 			<g:item_group_id>
-				5910
+				parent002
 			</g:item_group_id>
 		</item>
 		<item>
 			<g:id>
-				10412
+				sku003
 			</g:id>
 			<title>
 				mock item 3
@@ -203,7 +203,7 @@
 				FALSE
 			</g:adult>
 			<g:item_group_id>
-				6180
+				parent003
 			</g:item_group_id>
 		</item>
 	</channel>

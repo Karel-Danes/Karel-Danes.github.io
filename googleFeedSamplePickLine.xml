@@ -44,6 +44,7 @@
 			<g:availability>
 				in stock
 			</g:availability>
+			<g:quantity>10</g:quantity>
 			<g:price>
 				6.57 EUR
 			</g:price>
@@ -113,6 +114,7 @@
 			<g:availability>
 				in stock
 			</g:availability>
+			<g:quantity>20</g:quantity>
 			<g:price>
 				60.67 EUR
 			</g:price>
@@ -176,6 +178,7 @@
 			<g:availability>
 				in stock
 			</g:availability>
+			<g:quantity>10</g:quantity>
 			<g:price>
 				78.82 EUR
 			</g:price>

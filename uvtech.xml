@@ -1,0 +1,85 @@
+<SHOP>
+	<SHOPITEM id="4075">
+		<NAME>
+			2ks USB nabíjecí Ni-Mh AA 1,2V baterie 1450mAh
+		</NAME>
+		<EAN>
+			0702338313493
+		</EAN>
+		<PRICE_VAT>
+			290
+		</PRICE_VAT>
+		<STOCK>
+			<AMOUNT>
+				0
+			</AMOUNT>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM id="4078">
+		<NAME>
+			59s UV sterilizátor S1
+		</NAME>
+		<EAN>
+			6970321903646
+		</EAN>
+		<PRICE_VAT>
+			590
+		</PRICE_VAT>
+		<STOCK>
+			<AMOUNT>
+				0
+			</AMOUNT>
+			<LOCATION>
+				5
+			</LOCATION>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM id="4081">
+		<NAME>
+			AcneGo-1 Led lampa na akné, fototerapie
+		</NAME>
+		<EAN>
+			0702338313660
+		</EAN>
+		<PRICE_VAT>
+			1190
+		</PRICE_VAT>
+		<STOCK>
+			<AMOUNT>
+				0
+			</AMOUNT>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM id="4084">
+		<NAME>
+			AcneGo-2 Pro Led lampa pro světelnou terapii
+		</NAME>
+		<EAN>
+			0702338313707
+		</EAN>
+		<PRICE_VAT>
+			1990
+		</PRICE_VAT>
+		<STOCK>
+			<AMOUNT>
+				39
+			</AMOUNT>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM id="4087">
+		<NAME>
+			Air-1 Detektor oxidu uhličitého CO2 s měřením teploty a vlhkosti
+		</NAME>
+		<EAN>
+			0702338313592
+		</EAN>
+		<PRICE_VAT>
+			1190
+		</PRICE_VAT>
+		<STOCK>
+			<AMOUNT>
+				0
+			</AMOUNT>
+		</STOCK>
+	</SHOPITEM>
+</SHOP>
